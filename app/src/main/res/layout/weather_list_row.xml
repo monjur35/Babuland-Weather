@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardView"
+        android:focusable="true"
+        android:clickable="true"
+        android:layout_marginBottom="1dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/locationName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:layout_margin="10dp"
+                android:textSize="20sp"
+                android:textColor="#434343"
+                tools:text="Dhaka" />
+
+            <TextView
+                android:id="@+id/locationStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_light"
+                android:layout_marginStart="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_below="@+id/locationName"
+                tools:text="Dhaka" />
+            <TextView
+                android:id="@+id/temperature"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_medium"
+                android:layout_marginStart="10dp"
+               android:layout_centerVertical="true"
+                android:layout_alignParentEnd="true"
+                android:textSize="20sp"
+                android:textColor="#191919"
+                android:layout_margin="10dp"
+                tools:text="25 C" />
+
+
+        </RelativeLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+</RelativeLayout>

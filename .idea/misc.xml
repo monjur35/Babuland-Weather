@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/drawable-v24/sheetshape.xml" value="0.1859375" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/drawable/splash_bg.xml" value="0.3416666666666667" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/activity_home.xml" value="0.3703125" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/activity_homee.xml" value="0.3703125" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/activity_main.xml" value="0.3703125" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/bottom_sheet.xml" value="0.16979166666666667" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/content_homee.xml" value="0.3703125" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/fragment_first.xml" value="0.3703125" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/fragment_home.xml" value="0.32395833333333335" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/fragment_maps.xml" value="0.3703125" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/location_details.xml" value="0.33" />
+        <entry key="..\:/Android projects/Babuland/app/src/main/res/layout/weather_list_row.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
